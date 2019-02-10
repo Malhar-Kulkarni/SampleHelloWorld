@@ -5,7 +5,7 @@
 	<artifactId>Spring3Example</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Spring3Example</name>
+	<name>Spring3ExampleNameIsMAK</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
